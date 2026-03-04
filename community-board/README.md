@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/78a5751647134304a55d6d04684baad3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -48,8 +48,6 @@ GIF created with ...
 I struggled with getting the local host to work at first. The issue behind it was trying to use Docker, I instead used a prebuilt Node.js and it worked fine!
 
 The creation of this project otherwise went fairly smoothly! I'm proud of this first project
-
-I tried using ScreentoGif to make my video but I apperently don't have enough disc space to save the video, I deleted so much stuff and it still wasn't enough :'( oh well
 
 
 ## License
