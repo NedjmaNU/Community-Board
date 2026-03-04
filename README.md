@@ -35,9 +35,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='https://www.loom.com/share/78a5751647134304a55d6d04684baad3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://www.loom.com/share/78a5751647134304a55d6d04684baad3
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
