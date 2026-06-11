@@ -2,9 +2,9 @@
 
 Submitted by: Nedjma Ngoufan
 
-This web app: People that live within the DMV are always complaining about being bored with nothing to do. So this board is intended to share food and activities to explore within Washington DC and Northern Virginia (Sorry Maryland, I don't drive out that far lol)
+This web app: So this board is intended to share food and activities to explore within Washington DC and Northern Virginia (Sorry Maryland, I don't drive out that far lol)
 
-Time spent: 3 hours spent in total
+Time spent: about 3.5 hours spent in total
 
 ## Required Features
 
@@ -37,7 +37,7 @@ Here's a walkthrough of implemented required features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -45,9 +45,6 @@ GIF created with ...
 
 ## Notes
 
-I struggled with getting the local host to work at first. The issue behind it was trying to use Docker, I instead used a prebuilt Node.js and it worked fine!
-
-The creation of this project otherwise went fairly smoothly! I'm proud of this first project
 
 
 ## License

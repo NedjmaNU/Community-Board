@@ -5,11 +5,11 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Food & Activities in DC & NOVA</h1>
+      <h1>DC & NOVA Things To Do</h1>
       <h2>District of Columbia & Northern Virginia</h2>
         <div className="cards-wrapper">
           <Card //this is a prop(?) forgot the name tbh. this basically loads what is built in Card.jsx 
-            imgSrc="https://lh3.googleusercontent.com/gps-cs-s/AHVAweqLvYndd8TptokQCz_PbeXzT36NbZksy2pDNKQuI9DECWfKIj-hSmH0Su2w3jybawuFv9V22Vew6gNIS7PoixaHbHdyN5ulda4iN-1nReGUb_JrlBwtQGekOJSgZ6ytyVR5jzAo6Q=w289-h312-n-k-no"
+            imgSrc="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQHHDmIQgswceLYT__S1djIgoH7aPgKfk7wXAa1A1meUmg8bhnUwF_icpy&s=10"
             imgAlt="Louisiana Style Beignets"
             title="Ben'Yays"
             description="Old Town Alexandria, VA"
@@ -25,7 +25,7 @@ const App = () => {
             link="https://surfsidedc.com/dupont-menu/"
           />
           <Card 
-            imgSrc="https://lh3.googleusercontent.com/gps-cs-s/AHVAweqwspu44UcDFOsHz3nY5_ttLcPDohxRUXWggNM3dJOtQtnRRY9CGTMHfv_lt2u7CZWlcVcJcu02Tf8ec5n5DnOYc2TkzdRKpiR4x1KP9VfoezHMTVFBv5JWxu16JS7OtnHFOQjcjw=w270-h312-n-k-no"
+            imgSrc="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYu6u0eTN7-Sj6fcuDk-k7f53gHV5-HbCKd1xD5F6n2g&s=10"
             imgAlt="The Great Falls"
             title="Great Falls Park"
             description="McLean, VA"
