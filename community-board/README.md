@@ -33,8 +33,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/5d6a73dbc5c2475bb5a42f675b64b6ee" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+https://www.loom.com/share/5d6a73dbc5c2475bb5a42f675b64b6ee
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  
