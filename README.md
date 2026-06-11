@@ -2,9 +2,9 @@
 
 Submitted by: Nedjma Ngoufan
 
-This web app: People that live within the DMV are always complaining about being bored with nothing to do. So this board is intended to share food and activities to explore within Washington DC and Northern Virginia (Sorry Maryland, I don't drive out that far lol)
+This web app: This board is intended to share food and activities to explore within Washington DC and Northern Virginia (Sorry Maryland, I don't drive out that far lol)
 
-Time spent: 3 hours spent in total
+Time spent: about 3.5 hours spent in total
 
 ## Required Features
 
@@ -34,9 +34,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/78a5751647134304a55d6d04684baad3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-https://www.loom.com/share/78a5751647134304a55d6d04684baad3
-
+[<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+](https://www.loom.com/share/5d6a73dbc5c2475bb5a42f675b64b6ee)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  
 <!-- Recommended tools:
@@ -46,13 +45,6 @@ GIF created with Loom
 
 ## Notes
 
-I struggled with getting the local host to work at first. The issue behind it was trying to use Docker, I instead used a prebuilt Node.js and it worked fine!
-
-The creation of this project otherwise went fairly smoothly! I'm proud of this first project
-
-I tried using ScreentoGif to make my video but I apperently don't have enough disc space to save the video, I deleted so much stuff and it still wasn't enough :'( oh well
-
-Also found out I had no idea how to upload everything I was doing on VSCode onto the github.com, but I figuried it out!
 
 
 ## License
